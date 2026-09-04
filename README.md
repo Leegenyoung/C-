@@ -88,4 +88,5 @@ return 0;
 - 0을 반환하고 메인함수 정상 종료
 
 # 실행결과
-<img width="409" height="126" alt="스크린샷 2026-09-03 152325" src="https://github.com/user-attachments/assets/a9f445df-ea7a-41c2-bd90-3b57961ef7e7" />
+
+<img width="409" height="126" alt="스크린샷 2026-09-03 152325" src="https://github.com/user-attachments/assets/ae4fb509-2f49-4890-ac01-f7434b5246ed" />
