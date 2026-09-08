@@ -12,7 +12,6 @@
 # 실습과제 2
 <img width="427" height="132" alt="image" src="https://github.com/user-attachments/assets/020eb63c-72fd-4a7d-bd50-8ecb7be5bd9d" />
 
-
 # 실습과제 3
 
 ## 문제에서 주어진 코드
