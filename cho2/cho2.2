@@ -1,1 +1,25 @@
+// **********************************************
+// 제 목 : 포인터를 이용한 두 정수의 합 계산 프로그램
+// 날 짜 : 2026년 9월 9일
+// 작성자 : 2600130 이건영
+// **********************************************
 
+#define _CRT_SECURE_NO_WARNINGS // 보안오류방지
+#pragma warning(disable:6031)  // 리턴값관련 경고 방지
+#include <stdio.h>
+
+int main(void)
+{
+    int a = 100, b = 200;
+    int sum;
+
+    int* pa = &a;
+    int* pb = &b;
+    int* psum = &sum;
+
+    *psum = *pa + *pb;
+
+    printf("두정수의 합 : %d\n", *psum);
+
+    return 0;
+}
