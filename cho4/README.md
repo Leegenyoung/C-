@@ -16,7 +16,7 @@
 ```
 #실행결과
 
-<img width="402" height="276" alt="스크린샷 2026-09-17 234030" src="https://github.com/user-attachments/assets/e0f5af07-a81d-4672-8251-f3dd61f53a65" />
+<<img width="402" height="276" alt="스크린샷 2026-09-17 234030" src="https://github.com/user-attachments/assets/e0f5af07-a81d-4672-8251-f3dd61f53a65" />
 ```
 # 실습과제3
 ```
