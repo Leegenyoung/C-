@@ -47,7 +47,7 @@ void swap_any(void* a, void* b, size_t size)
 
 int main(void)
 {
-    // ----- 예제 A 실행 -----
+    // ----- 예제 1 실행 -----
     int arr[5] = { 1, 2, 3, 4, 5 };
     printf("[함수 포인터 매개변수]\n");
     printf("제곱 : ");
@@ -55,7 +55,7 @@ int main(void)
     printf("두 배 : ");
     apply_and_print(arr, 5, twice);    // 함수명 twice를 인자로 전달
 
-    // ----- 예제 B 실행 -----
+    // ----- 예제 2 실행 -----
     int x = 10, y = 20;
     double p = 1.5, q = 2.5;
     printf("\n[void 포인터 매개변수]\n");
