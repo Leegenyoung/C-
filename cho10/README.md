@@ -136,8 +136,8 @@ blood_type = 'A'
 정상적으로 혈액형 'A'가 변수에 저장된다.
 
 ## 5. 실행결과
-<img width="391" height="162" alt="image" src=<img width="295" height="129" alt="스크린샷 2026-10-30 113944" src="https://github.com/user-attachments/assets/e29f1d17-f8b1-4157-880a-ec37734f3213" />
- />
+<img width="295" height="129" alt="스크린샷 2026-10-30 113944" src="https://github.com/user-attachments/assets/abbe611a-d033-401b-968d-434510510e6d" />
+
 
 
 # 실습과제 4
