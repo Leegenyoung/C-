@@ -1,4 +1,3 @@
-
 # 실습과제 1
 ## 1-1. 구조체가 필요한 이유를 설명하라.
 구조체는 서로 다른 자료형의 여러 데이터를 하나의 묶음으로 관리하기 위해 필요하다.
@@ -52,7 +51,7 @@ struct student s1;
 
 # 실습과제 2
 ## 실행결과
-
+<img width="268" height="154" alt="스크린샷 2026-11-03 145303" src="https://github.com/user-attachments/assets/5d79fa2e-f883-442b-b270-56bee8fa5d22" />
 
 # 실습과제 3
 ## 실행결과
