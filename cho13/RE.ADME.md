@@ -55,7 +55,7 @@ struct student s1;
 
 # 실습과제 3
 ## 실행결과
-
+<img width="310" height="158" alt="스크린샷 2026-11-03 145627" src="https://github.com/user-attachments/assets/685b98de-534d-44c2-80cd-9c9be830ff66" />
 
 # 실습과제 4
 ## 실행결과
